@@ -12,6 +12,7 @@ public class S05T01N03BiergeOscarApplication {
 		// @RestTemplate @WebClient RestTemplate and WebClient use with example
 		// https://www.youtube.com/watch?v=jo6IEX-v3LM
 		// https://springdoc.org/
+		//https://www.youtube.com/watch?v=vas12Uao1UQ
 
 	}
 
