@@ -8,6 +8,11 @@ public class S05T01N03BiergeOscarApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(S05T01N03BiergeOscarApplication.class, args);
+
+		// @RestTemplate @WebClient RestTemplate and WebClient use with example
+		// https://www.youtube.com/watch?v=jo6IEX-v3LM
+		// https://springdoc.org/
+
 	}
 
 }
